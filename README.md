@@ -5,3 +5,10 @@ Scripts to automate the Pi² reactor mini-game. These scripts are designed to ru
 ## HOW TO USE:
 
 ### Console Copy-Paste
+
+1. Open the Pi² game page in your browser
+2. Press "F12" to open Developer Tools
+3. Go to the Console tab
+4. Write "allow pasting" then press enter
+5. Copy and paste one of the scripts below
+6. Press "Enter" to run
