@@ -17,7 +17,7 @@ Scripts to automate the Pi² reactor mini-game. These scripts are designed to ru
 
 The scripts automatically start new games and restarts with a new game when the current game's stopped.
 
-**`Pi2-Network-Clickers.js`**
+**`Pi2-Network.js`**
 
 Pi2 Network applied a threshold on 220 clicks & 20 TPS, if you pass it, you earn 0 points, so this script is the best fit.
 
